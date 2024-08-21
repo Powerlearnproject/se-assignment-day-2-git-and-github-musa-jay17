@@ -118,13 +118,16 @@ Delete the branch (optional).
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 Branch Creation:
 Start by creating a new branch (e.g., “feature-x”) from the main branch. This is where your magic happens.
+
 Code & Commit:
 Write your code, commit changes, and sprinkle in some comments. Imagine you’re baking a code cake.
 Push to GitHub:
 Push your branch to GitHub using git push origin feature-x. The stage is set.
+
 Open a PR:
 On GitHub, create a pull request from your branch to the main branch.
 Describe your changes—the “why,” “what,” and “how.” Be eloquent; this is your cover letter.
+
 Review & Discussion:
 Collaborators gather around the PR. They review your code, suggest tweaks, and discuss like scholars at a round table.
 You make adjustments, addressing their feedback. It’s a dance of refinement.
